@@ -1,1 +1,2 @@
-# ekestorm-masters-thesis-2025
+# Master's Thesis Project
+Oskar Ekestorm
