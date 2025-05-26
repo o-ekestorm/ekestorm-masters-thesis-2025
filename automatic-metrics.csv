@@ -1,0 +1,5 @@
+﻿System,BLEU ↑,chrF2++ ↑,TER ↓
+Custom Model (60 000),14.41,26.43,88.26
+"Custom Averaged Model (15 000, 20 000, 25 000)",15.44,27.74,85.78
+DeepL,17.54,32.27,84.75
+Google Translate,15.08,33.17,83.06
