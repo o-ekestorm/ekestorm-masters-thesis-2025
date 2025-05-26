@@ -18,7 +18,7 @@ The game text from *[Persona 5 Royal](https://en.wikipedia.org/wiki/Persona_5)* 
 
 [`game-data`](/game-data.csv) shows the amount of bitexts collected from each game used to form the corpus for my study.
 
-In total, 767.4k bitexts were used, of which 625k bitexts where used for training the NMT model.
+In total, 767.4k bitexts were used, of which 625.2k bitexts where used for training the NMT model.
 
 
 ## Translation Quality Assessment Model
@@ -38,3 +38,15 @@ In total, 767.4k bitexts were used, of which 625k bitexts where used for trainin
 - A translation provided by DeepL
 
 The Google Translate and DeepL translations were conducted on `2025-05-22` through their respective official free APIs.
+
+
+## Automatic Metrics
+
+[`automatic-metrics.csv`](/automatic-metrics.csv) shows BLEU, chrF2++, and TER scores for
+
+- My custom NMT model (60 000 steps)
+- An averaged custom NMT model (15 000, 20 000, and 25 000 steps)
+- DeepL
+- Google Translate
+
+The arrow indicates whether a higher `↑` or lower `↓` score is better.
