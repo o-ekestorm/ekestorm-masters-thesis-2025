@@ -1,6 +1,8 @@
 # Master's Thesis Project
 
-Author: Oskar Ekestorm
+> *All Your Translation Are Belong to Machines: Exploring Domain-Specific Neural Machine Translation in Japanese-English Video Game Localization*
+> 
+> — Oskar Ekestorm, spring 2025
 
 This repository contains files relating to my Master's Thesis for easy access.
 
